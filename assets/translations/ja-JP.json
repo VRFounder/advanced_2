@@ -1,0 +1,13 @@
+{
+  "str_packages": "パッケージ",
+  "str_localization": "ローカリゼーション",
+  "str_local_database": "ローカル データベース",
+  "str_networking": "ネットワーク",
+  "btn_loc_ru": "ロシア語",
+  "btn_loc_fr": "フランス語",
+  "btn_loc_en": "英語",
+  "btn_loc_uz": "ウズベク語",
+  "btn_loc_ko": "韓国語",
+  "btn_loc_ja": "日本語",
+  "txt_main": "一部のデータ"
+}

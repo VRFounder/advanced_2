@@ -1,0 +1,13 @@
+{
+  "str_packages": "Paquets",
+  "str_localization": "Localisation",
+  "str_local_database": "Base de données locale",
+  "str_networking": "Mise en réseau",
+  "btn_loc_ru": "Russe",
+  "btn_loc_fr": "Français",
+  "btn_loc_en": "Anglais",
+  "btn_loc_uz": "Ouzbek",
+  "btn_loc_ko": "Coréen",
+  "btn_loc_ja": "Japonais",
+  "txt_main": "Quelques données"
+}

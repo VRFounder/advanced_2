@@ -1,0 +1,13 @@
+{
+  "str_packages": "패키지",
+  "str_localization": "현지화",
+  "str_local_database": "로컬 데이터베이스",
+  "str_networking": "네트워킹",
+  "btn_loc_ru": "러시아어",
+  "btn_loc_fr": "프랑스어",
+  "btn_loc_en": "영어",
+  "btn_loc_uz": "우즈베크어",
+  "btn_loc_ko": "한국어",
+  "btn_loc_ja": "일본어",
+  "txt_main": "일부 데이터"
+}

@@ -1,0 +1,13 @@
+{
+  "str_packages": "Paketlar",
+  "str_localization": "Lokalizatsiya",
+  "str_local_database": "Lokal ma'lumotlar bazasi",
+  "str_networking": "Tarmoq",
+  "btn_loc_ru": "Rus tili",
+  "btn_loc_fr": "Fransuz tili",
+  "btn_loc_en": "Ingliz tili",
+  "btn_loc_uz": "O'zbek tili",
+  "btn_loc_ko": "Koreya tili",
+  "btn_loc_ja": "Yapon tili",
+  "txt_main": "Ba'zi ma'lumotlar"
+}
